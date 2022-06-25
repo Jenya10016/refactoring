@@ -1,8 +1,3 @@
-## demo
-
-<!-- [ add link here label ](add link here) -->
-<!-- ![discribe image](link to phot)-->
-
 # refactoring
 
 ## description
